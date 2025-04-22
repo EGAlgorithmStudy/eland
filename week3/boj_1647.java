@@ -33,6 +33,7 @@ public class boj_1647 {
             parent[i] = i;
         }
 
+
         for(int i=0; i<M; i++){
             boolean check = union(graph[i][0],graph[i][1]);
             if(check){
