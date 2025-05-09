@@ -3,7 +3,7 @@ package week6;
 import java.io.*;
 import java.util.*;
 
-public class pro_2178 {
+public class boj_2178 {
     static int N;
     static int M;
 
